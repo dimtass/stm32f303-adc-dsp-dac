@@ -1,6 +1,4 @@
 version: 2.1
-orbs:
-  git: opuscapita/git@0.0.3
 jobs:
   build:
     docker:

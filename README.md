@@ -1,6 +1,8 @@
 STM32F303 ADC DAC DSP
 ----
 
+[![dimtass](https://circleci.com/gh/dimtass/stm32f303-adc-dsp-dac.svg?style=svg)](https://circleci.com/gh/dimtass/stm32f303-adc-dsp-dac)
+
 This project code is part of the following blog post here:
 
 [https://www.stupid-projects.com/biquad-audio-dsp-filters-using-stm32f303cc-black-pill/](https://www.stupid-projects.com/biquad-audio-dsp-filters-using-stm32f303cc-black-pill/).
