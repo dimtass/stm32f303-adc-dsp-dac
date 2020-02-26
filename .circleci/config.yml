@@ -9,4 +9,7 @@ jobs:
       - checkout
       - run:
           name: Build firmware
-          command: ./build.sh
+          command: |
+            git submodule sync
+            git submodule update --init --recursive --jobs 8
+            ./build.sh
