@@ -9,5 +9,5 @@ jobs:
           name: Build firmware
           command: |
             git submodule sync
-            git submodule update --init --recursive --jobs 8
+            git submodule update --init --recursive
             ./build.sh
