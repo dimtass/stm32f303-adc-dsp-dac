@@ -1,0 +1,3 @@
+[submodule "source/libs/filters_lib"]
+	path = source/libs/filters_lib
+	url = https://dimtass@bitbucket.org/dimtass/dsp-c-filters.git
