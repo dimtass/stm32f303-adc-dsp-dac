@@ -110,7 +110,7 @@ submodule repo that contains the [C code for the filters](https://bitbucket.org/
 It's easier to do this by running this command:
 
 ```sh
-git clone --recursive https://dimtass@bitbucket.org/dimtass/stm32f303-adc-dac-dsp.git
+git clone --recursive https://github.com/dimtass/stm32f303-adc-dsp-dac.git
 ```
 
 ## Build the code
