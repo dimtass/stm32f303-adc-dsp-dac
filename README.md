@@ -137,7 +137,7 @@ tool, by running this command:
 The following table show the STM32F303CC pinout for this project.
 
 STM32 pin | Function
-- | -
+-|-
 A0 | ADC in
 A4 | DAC out
 A9 | UART Tx
